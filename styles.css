@@ -52,7 +52,7 @@ h2{font-size:2.6rem;margin:0 0 0.5rem}
 /* Projects */
 .project-list{margin-top:2.5rem}
 .project{display:flex;gap:2rem;align-items:flex-start}
-.project-img{width:420px;border-radius:12px;object-fit:cover;box-shadow:0 8px 30px rgba(15,23,42,0.06)}
+.project-img{width:300px;height:300px;border-radius:12px;object-fit:cover;box-shadow:0 8px 30px rgba(15,23,42,0.06)}
 .project-body h3{margin:0 0 0.5rem}
 .project-body p{color:var(--text-muted);max-width:520px}
 .tag{display:inline-block;margin-top:1rem;background:#fff0e6;color:#b5652b;padding:0.35rem 0.6rem;border-radius:12px;font-size:0.9rem}
